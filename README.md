@@ -1,4 +1,11 @@
-A simple bot for NGL.LinkBot.
+A simple bot for NGL.Link.
+
+Program Instructions:
+-----
+
+Simply enter in a username for ngl.link and enter in a message you would like to spam to them!
+
+**Note:** This program was created for fun. I am not responsible for how you choose to use my software.
 
 Screenshot:
 -----
